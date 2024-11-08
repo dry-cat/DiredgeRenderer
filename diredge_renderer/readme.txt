@@ -13,7 +13,7 @@ To compile on the University Linux machines, you will need to do the following:
 
 To execute the renderer, pass the file name on the command line:
 
-[userid@machine diredge_renderer]$ ./triangle_renderer ../output_models/tetrahedron.diredge
+[userid@machine diredge_renderer]$ ./diredge_renderer ../handout_models/filename.tri ../output_models/filename.diredge
 
 #define DIREDGE 1:
 ==================
