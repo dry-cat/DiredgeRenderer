@@ -1,0 +1,1 @@
+#define DIREDGE 1
